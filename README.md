@@ -1,0 +1,2 @@
+# neural-MMO-2022
+Solutions for the NEURIPS 2022 - THE NEURAL MMO CHALLENGE.
